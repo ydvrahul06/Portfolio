@@ -34,7 +34,7 @@ To run the website locally, follow these steps:
 3. Open the `index.html` file in your web browser.
 
 ## Usage
-Feel free to explore the website to learn more about me and my work. If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/your-username/your-repository/issues) or [submit a pull request](https://github.com/your-username/your-repository/pulls).
+Feel free to explore the website to learn more about me and my work. If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/ydrahul06/Portfolio/issues) or [submit a pull request](https://github.com/ydrahul06/Portfolio/pulls).
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
@@ -44,6 +44,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Commit your changes (`git commit -am 'Add new feature'`).
 5. Push to the branch (`git push origin feature-name`).
 6. Create a new Pull Request.
-
-## License
-[License Name, e.g., MIT License] - See the [LICENSE](LICENSE) file for details.
